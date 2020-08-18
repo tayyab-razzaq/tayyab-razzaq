@@ -5,6 +5,4 @@
 - 🔭 I’m currently working as a technical team-lead at Arbisoft on ATS (Applicant Tracking System) which empowers recruiters during the hiring process to scan and rank the job applications they receive for their open positions and ERP (Enterprise Resource Planning) which empowers organizations to manage internal HR  and accounts functions.
 - 👉 I’m a computer science graduate from Punjab University College of Information Technology Lahore.
 
-### Interesting stats
-
 ![Tayyab's stats](https://github-readme-stats.vercel.app/api?username=tayyab-razzaq&show_icons=true)
