@@ -6,3 +6,5 @@
 - 👉 I’m a computer science graduate from Punjab University College of Information Technology Lahore.
 
 ![Tayyab's stats](https://github-readme-stats.vercel.app/api?username=tayyab-razzaq&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyab-razzaq&layout=compact)
